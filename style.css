@@ -1,5 +1,10 @@
+.titulo-principal {
+	padding-left: 20px;
+}
+
 #banner {
-	width: 100%;
+	width: 80%;
+	padding-left: 150px;
 }
 
 .principal {
