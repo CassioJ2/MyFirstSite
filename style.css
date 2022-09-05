@@ -1,15 +1,13 @@
-body {
-}
-
 #banner {
 	width: 100%;
 }
 
 .principal {
-	background: #CCCCCC
+	background: #CCCCCC;
+	padding: 20px
 }
 
-h1 {
+.titulo-centralizado {
 	text-align: center
 }
 
@@ -27,15 +25,21 @@ em strong {
 
 .itens {
 	font-style: italic;
-
 }
 
 .beneficios {
 	background: white;
 	font-size: 20px;
-	text-align: center;
 }
 
-h2 {
-	text-align: center;
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 1%;
+}
+
+.imageBeneficios {
+	width: 50%;
+	align-self: center;
 }
