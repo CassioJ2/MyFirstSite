@@ -1,0 +1,13 @@
+header {
+    background: #BBBB;
+}
+
+nav li {
+    display: inline;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+}
